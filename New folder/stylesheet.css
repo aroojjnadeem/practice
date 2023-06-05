@@ -1,0 +1,6 @@
+h1{border: 2px solid red;}
+div{border: solid purple; 100%}
+div{margin-top: 50px;}
+div{width: 50%;letter-spacing: 5cm;}
+.masterdiv{border-color: rgb(102, 255, 0);border-width: 6cm;letter-spacing: 1mm; padding-top: 2cm;margin-left: 4cm;margin-right: 2cm;}
+div2{border-color: rgb(255, 0, 0);border-style: dotted;}
